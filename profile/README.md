@@ -16,9 +16,7 @@
 **Technology Bucket** - Smart Education
 
 ## Technologies -
-* Nodejs
-* MongoDB
-* AWS S3
+* Nodejs, MongoDB, Clodinary, React, MUI, Elastic Search
 
-* React
-* MUI
+# Architecture
+<img src="Sih 22@1.25x.png" />
