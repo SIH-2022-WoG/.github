@@ -19,4 +19,4 @@
 * Nodejs, MongoDB, Clodinary, React, MUI, Elastic Search
 
 # Architecture
-<img src="Sih 22@1.25x.png" />
+<img src="./sihImage.png" />
